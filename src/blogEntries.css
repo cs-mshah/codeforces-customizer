@@ -1,0 +1,16 @@
+.search-blog-form{
+    margin: 0 1em;
+    padding-top: .5em;
+    height: 2.5em;
+    line-height: 2.5em;
+    border-radius:8px;
+}
+
+#search-blog{
+    margin: 1em;
+    margin-bottom: 0;
+    padding: 8px;
+    box-sizing: border-box;
+    border-radius:8px;
+    font-size: 16px;
+}

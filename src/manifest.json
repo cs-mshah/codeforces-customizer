@@ -27,6 +27,7 @@
   "content_scripts": [
     {
       "all_frames": false,
+      "css": ["blogEntries.css"],
       "js": [
         "./scripts/jquery-3.6.0.min.js",
         "blogEntries.js"
