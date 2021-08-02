@@ -33,7 +33,8 @@
         "blogEntries.js"
       ],
       "matches": [
-        "https://*.codeforces.com/favourite/blogEntries/*"
+        "https://*.codeforces.com/favourite/blogEntries/*",
+        "https://*.codeforces.com/blog/*"
       ],
       "run_at": "document_idle"
     },

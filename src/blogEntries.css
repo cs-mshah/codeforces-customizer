@@ -14,3 +14,12 @@
     border-radius:8px;
     font-size: 16px;
 }
+
+.expand-blog {
+    margin: 1em;
+    margin-left: 0;
+}
+
+.hidden {
+	display: none;
+}
