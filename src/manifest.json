@@ -36,6 +36,9 @@
         "https://*.codeforces.com/favourite/blogEntries/*",
         "https://*.codeforces.com/blog/*"
       ],
+      "exclude_matches": [
+        "https://*.codeforces.com/blog/entry/*"
+      ],
       "run_at": "document_idle"
     },
     {
