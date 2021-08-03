@@ -48,7 +48,8 @@
         "problemset.js"
       ],
       "matches": [
-        "https://*.codeforces.com/problemset/problem/*"
+        "https://*.codeforces.com/problemset/problem/*",
+        "https://*.codeforces.com/contest/*/problem/*"
       ],
       "run_at": "document_idle"
     }
