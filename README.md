@@ -1,5 +1,7 @@
+![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/akmlgflgekmnameijijkefhochekjfgg)
 ![GitHub top language](https://img.shields.io/github/languages/top/cs-mshah/codeforces-customizer)
 ![GitHub issues](https://img.shields.io/github/issues/cs-mshah/codeforces-customizer)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/cs-mshah/codeforces-customizer)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -62,8 +64,8 @@ Codefoces provides a way to star your favourite blogs and view them under the fa
 <!-- GETTING STARTED -->
 ## Getting the extension
 
-1. Simply go to the chrome web store : and click on _add to chrome_, or,  
-2. Go to [Releases](https://github.com/cs-mshah/codeforces-customizer/releases), download and extract the package. Now go to chrome://extensions/ , select load unpacked and select the extracted package.
+1. Simply go to the chrome web store : [chrome extension](https://chrome.google.com/webstore/detail/codeforces-customizer/akmlgflgekmnameijijkefhochekjfgg/) and click on _add to chrome_, or,  
+2. Go to [Releases](https://github.com/cs-mshah/codeforces-customizer/releases), download and extract the package. Now go to chrome://extensions/ , select load unpacked and select the src folder.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -82,6 +84,6 @@ Contributions are what make the open source community such an amazing place to l
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b newFeature`)
-3. Commit your Changes (`git commit -m 'Added a new feature'`)
+3. Commit your Changes (`git commit -m 'Added a newFeature'`)
 4. Push to the Branch (`git push origin newFeature`)
 5. Open a Pull Request
