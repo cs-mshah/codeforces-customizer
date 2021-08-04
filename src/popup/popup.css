@@ -58,3 +58,7 @@ h1, h2{
 input[type="checkbox"] {
   float: right;
 }
+
+input[type="text"] {
+  width: 120px;
+}

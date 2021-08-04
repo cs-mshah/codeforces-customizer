@@ -52,6 +52,23 @@
         "https://*.codeforces.com/contest/*/problem/*"
       ],
       "run_at": "document_idle"
+    },
+    {
+      "all_frames": false,
+      "js": [
+        "./scripts/jquery-3.6.0.min.js",
+        "userLists.js"
+      ],
+      "matches": [
+        "https://*.codeforces.com/problemset",
+        "https://*.codeforces.com/problemset/status",
+        "https://*.codeforces.com/problemset/standings",
+        "https://*.codeforces.com/problemsets/acmsguru",
+        "https://*.codeforces.com/problemsets/acmsguru/status",
+        "https://*.codeforces.com/problemsets/acmsguru/standings",
+        "https://*.codeforces.com/contests"
+      ],
+      "run_at": "document_start"
     }
   ]
 }

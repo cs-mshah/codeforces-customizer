@@ -16,4 +16,16 @@ $(document).ready(function(){
         save[String(event.target.id)] = val;
         chrome.storage.sync.set(save);
     });
+
+    // sync userList state
+    chrome.storage.sync.get('userLists', function(data){
+        $('#userLists').val(data.userLists);
+    });
+
+    // set userList
+    $('#userLists').keydown(function(event){
+        if (event.keyCode == 13) {
+            chrome.storage.sync.set({'userLists': $('#userLists').val()});
+        }
+    });
 });

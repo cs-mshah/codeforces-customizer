@@ -39,7 +39,6 @@ chrome.storage.sync.get('blogEntries', function(data){
         },
         // prevent form submit
         keydown : function(event) {
-
             if (event.keyCode == 13) {
                 event.preventDefault();
                 return false;

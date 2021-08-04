@@ -2,6 +2,7 @@
 chrome.runtime.onInstalled.addListener(() => {
     chrome.storage.sync.set({
         'blogEntries': true,
-        'problemset': true
+        'problemset': true,
+        'userLists': '' 
     });
 });
