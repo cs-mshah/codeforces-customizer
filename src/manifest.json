@@ -1,7 +1,7 @@
 {
   "name": "Codeforces Customizer",
   "description": "customize and extend codeforces",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "manifest_version": 3,
   
   "permissions": ["storage"],
@@ -33,7 +33,7 @@
         "blogEntries.js"
       ],
       "matches": [
-        "https://*.codeforces.com/favourite/blogEntries/*",
+        "https://*.codeforces.com/favourite/blogEntries*",
         "https://*.codeforces.com/blog/*"
       ],
       "exclude_matches": [
