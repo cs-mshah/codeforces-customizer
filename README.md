@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/cs-mshah/codeforces-customizer/">
+  <a href="https://chromewebstore.google.com/detail/codeforces-customizer/akmlgflgekmnameijijkefhochekjfgg">
     <img src="./src/icons/header_logo.png" alt="Logo">
   </a>
   <h3 align="center">Codeforces Customizer</h3>
@@ -64,7 +64,7 @@ Codefoces provides a way to star your favourite blogs and view them under the fa
 <!-- GETTING STARTED -->
 ## Getting the extension
 
-1. Simply go to the chrome web store : [chrome extension](https://chrome.google.com/webstore/detail/codeforces-customizer/akmlgflgekmnameijijkefhochekjfgg/) and click on _add to chrome_, or,  
+1. Simply go to the chrome web store: [chrome extension](https://chromewebstore.google.com/detail/codeforces-customizer/akmlgflgekmnameijijkefhochekjfgg) and click on _add to chrome_, or,  
 2. Go to [Releases](https://github.com/cs-mshah/codeforces-customizer/releases), download and extract the package. Now go to chrome://extensions/ , select load unpacked and select the src folder.
 
 <!-- USAGE EXAMPLES -->
